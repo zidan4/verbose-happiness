@@ -3,9 +3,6 @@ import pandas as pd
 df = pd.DataFrame({'column1': [1, 2, 3], 'column2': [4, 5, 6]})
 print(df)
 
-df2 = pd.read_csv('data.csv')
-print(df2)
-
 import numpy as np
 array = np.array([[1, 2, 3], [4, 5, 6]])
 print(array)  
