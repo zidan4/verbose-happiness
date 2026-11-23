@@ -4,6 +4,7 @@ df = pd.DataFrame({'column1': [1, 2, 3], 'column2': [4, 5, 6]})
 print(df)
 
 import numpy as np
+
 array = np.array([[1, 2, 3], [4, 5, 6]])
 print(array)
 
